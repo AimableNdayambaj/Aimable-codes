@@ -1,0 +1,27 @@
+body{
+    background:rgb(142, 230, 237);
+    padding: 0.5%;
+    margin: 5%;
+    .nvg{
+        text-align: start;
+        background-color: red;
+        height: 0.5cm;
+        width: 5cm;
+        animation: 1s;
+    }
+    .bland{
+        width: 4cm;
+        height: 5cm;
+        margin: 0%;
+        padding: 0%;
+        background-color: wheat;
+        border-color: black;
+    }
+    .countries{
+        width: 7cm;
+        height: 4cm;
+        margin: 0%;
+        padding: 0%;
+        background-color: azure;
+    }
+}
